@@ -42,7 +42,7 @@ const MiniChart: React.FC<MiniChartProps> = ({
       {
         data,
         borderColor: lineColor,
-        borderWidth: 1,
+        borderWidth: 2,
         fill: true,
         backgroundColor: (context: any) => {
           const ctx = context.chart.ctx;

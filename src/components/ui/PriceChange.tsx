@@ -45,7 +45,7 @@ const PriceChange: React.FC<PriceChangeProps> = ({
   const formattedValue = `${isPositive ? '+' : ''}${value.toFixed(2)}%`;
   
   return (
-    <div className={`flex items-center ${colorClass} ${fontSizeClass} font-medium`}>
+    <div className={`flex items-right justify-end ${colorClass} ${fontSizeClass} font-medium`}>
       {showIcon && (
         <span className="mr-1">
           {isPositive ? (
