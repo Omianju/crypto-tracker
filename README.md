@@ -1,6 +1,6 @@
 # CryptoTrack - Real-Time Cryptocurrency Price Tracker
 
-[Watch the Loom video]("https://www.loom.com/embed/94aec07655034c528024d5b6457fa121?sid=16c0cc95-3c94-4fbe-81d8-04f8ee01e4c6")
+[!Watch the Loom video(https://www.loom.com/share/94aec07655034c528024d5b6457fa121"> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/94aec07655034c528024d5b6457fa121-5afbe40785c32717-full-play.gif)(https://www.loom.com/embed/94aec07655034c528024d5b6457fa121?sid=16c0cc95-3c94-4fbe-81d8-04f8ee01e4c6)]
 
 
 ## Overview
