@@ -1,7 +1,7 @@
 # CryptoTrack - Real-Time Cryptocurrency Price Tracker
 
 
-<div style="position: relative; padding-bottom: 56.162246489859605%; height: 0;"><iframe src="https://www.loom.com/embed/94aec07655034c528024d5b6457fa121?sid=16c0cc95-3c94-4fbe-81d8-04f8ee01e4c6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+https://www.loom.com/embed/94aec07655034c528024d5b6457fa121?sid=16c0cc95-3c94-4fbe-81d8-04f8ee01e4c6
 
 ## Overview
 
